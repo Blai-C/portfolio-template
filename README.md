@@ -2,6 +2,8 @@
 
 This project is a responsive portfolio website built using Vite, React, and Tailwind CSS. It provides a simple template that can be filled with your own information and customized according to your needs.
 
+![My Portfolio](./example.jpg)
+
 ## See it Live
 
 You can see a live demo of the portfolio template [here](https://www.blaicalero.com).
